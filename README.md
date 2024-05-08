@@ -92,7 +92,6 @@ Rocket League is a competitive game where two teams of robots engage in soccer m
 ## Winning the second place in the Competition
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        [Click here to download the video](screenshots/3.mp3)
     </div>
     <div style="flex: 1;">
       <img src="screenshots/2.png" alt="Screenshot 1" style="width: 100%;">
