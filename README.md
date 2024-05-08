@@ -88,8 +88,8 @@ Rocket League is a competitive game where two teams of robots engage in soccer m
 
 - Games are generally not stopped unless necessary for referee consultations or ball malfunction.
 </details>
-<details>
-<summary>Winning the second place in the Competition</summary>
+
+## Winning the second place in the Competition
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         [Click here to download the video](screenshots/3.mp3)
@@ -101,8 +101,6 @@ Rocket League is a competitive game where two teams of robots engage in soccer m
       <img src="screenshots/final.png" alt="Screenshot 2" style="width: 100%;">
     </div>
   </div>
-</details>
-
 
 ![Video 1](screenshots/3.mp4)
 
