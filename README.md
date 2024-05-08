@@ -101,6 +101,6 @@ Rocket League is a competitive game where two teams of robots engage in soccer m
     </div>
   </div>
 
-![Video 1](screenshots/3.mp4)
+![Video 1](https://github.com/Mohamed-Fathy-K/Remote-Control-Car-RC-Using-Arduino/raw/main/screenshots/3.mp4)
 
  
